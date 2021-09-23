@@ -1,0 +1,2 @@
+# elsooraimunka
+Iskolai gyakorló repository
